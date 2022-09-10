@@ -10,10 +10,11 @@
     <name>SistCom_Maven</name>
     
     <properties>
-        <endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>
-        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>  
         <sonar.organization>victorramosmochizuki</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+        <endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>  
+
     </properties>
     
     <dependencies>
